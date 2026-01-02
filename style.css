@@ -49,3 +49,28 @@ input {
     text-align: center;
     transition: 0.3s;
 }
+input::placeholder {
+    color: #888;
+}
+input:focus {
+    background-color: #fff;
+    border-color: #7b2cbf;
+}
+
+button {
+    width: 100%;
+    padding: 14px;
+    border: none;
+    border-radius: 10px;
+    background-color: #7b2cbf;
+    color: #fff;
+    font-size: 17px;
+    cursor: pointer;
+    transition: 0.3s;
+    font-weight: 600;
+    letter-spacing: 0.4px;
+}
+
+button:hover {
+    background-color: #602107;
+}
