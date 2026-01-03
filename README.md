@@ -26,5 +26,7 @@
 # Результат 
 #### 1)
 <img width="679" height="1040" alt="Image" src="https://github.com/user-attachments/assets/4ec4c385-c454-4edf-87e7-624d1c4734bf" />
+
 #### 2)
+
 <img width="693" height="1040" alt="Image" src="https://github.com/user-attachments/assets/954152d0-9542-46fb-a0e4-7a9d8946d7e9" />
