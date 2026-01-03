@@ -24,5 +24,4 @@
 #### 2.Откройте файл index.html в любом современном браузере.
 
 # Результат 
-![Screenshot1](img/screenshot1.png)
-![Screenshot1](img/screenshot2.png)
+
