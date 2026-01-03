@@ -74,3 +74,19 @@ button {
 button:hover {
     background-color: #602107;
 }
+
+#qrBox {
+    margin-top: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#qrImage {
+    width: 190px;
+    height: 190px;
+    border-radius: 10px;
+    padding: 10px;
+    background: #fff;
+    display: none;
+    border: 1px solid #ccc;
+}
